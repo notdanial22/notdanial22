@@ -1,4 +1,18 @@
+👋 Hi there! I'm Muhammad Danial, a Full Stack Developer passionate about building responsive and scalable web applications.
 
+🚀 Specializing in:
+- Frontend: React.js, Next.js, TypeScript, JavaScript
+- Backend: Node.js, Express.js, MongoDB
+- Styling: Tailwind CSS, Material-UI
+- Web3: dApp development, Wallet integration, Smart contract interaction (Wagmi, Ethers.js)
+
+💼 With 2+ years of experience, I've worked on projects ranging from responsive websites to complex decentralized applications. I'm always excited to tackle new challenges and contribute to innovative solutions.
+
+🌱 Currently exploring advanced patterns in Next.js and diving deeper into blockchain technologies.
+
+📫 Let's connect! Feel free to reach out for collaborations or just to say hi.
+
+📧 Email: notdanial22@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notdanial22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notdanial22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notdanial22) 
